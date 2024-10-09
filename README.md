@@ -1,5 +1,5 @@
 # SOLID-Principles
-SOLID Principles with Java Code example
+## SOLID Principles with Java Code example
 
 The **SOLID** principles are a set of five design principles that help software developers create more maintainable, scalable, and flexible code. They are especially important in object-oriented programming (OOP). Here's a brief explanation of each principle with a Java code example.
 
